@@ -8,3 +8,5 @@
 - **书籍**：《Hadoop权威指南》等资料：https://pan.baidu.com/s/1-d1obM93ZtyxCTdGqbU80Q
 
  - **hadoop集群搭建参考**：http://note.youdao.com/noteshare?id=006de872aa5db809d4a136bdadcb7fa5
+  - **hadoop例子**：https://github.com/elfkingw/hadoop-samples
+
